@@ -1,0 +1,45 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"timestamps": 1642455363672,
+			"nombre": "Tarjeta de video RTX9500",
+			"descripcion": "para jugar abundante",
+			"codigo": "video8888",
+			"foto": "http://pruebita.com",
+			"precio": "4500",
+			"stock": "15"
+		},
+		{
+			"id": 2,
+			"timestamps": 1642455422272,
+			"nombre": "Computadora gamer I7",
+			"descripcion": "para jugar abundanteee",
+			"codigo": "pc1234",
+			"foto": "http://pruebita.com",
+			"precio": "12500",
+			"stock": "25"
+		},
+		{
+			"id": 3,
+			"timestamps": 1642455469848,
+			"nombre": "Memoria ryzer 8gb ddr4",
+			"descripcion": "la mejor memoria!",
+			"codigo": "mem1234",
+			"foto": "http://pruebita.com",
+			"precio": "1800",
+			"stock": "14"
+		},
+		{
+			"id": 4,
+			"timestamps": 1642456374281,
+			"nombre": "Disco duro solido 1tb kingston",
+			"descripcion": "el mejor disco duro",
+			"codigo": "hd1234",
+			"foto": "http://pruebita.com",
+			"precio": "2800",
+			"stock": "24"
+		}
+	],
+	"currentId": 4
+}

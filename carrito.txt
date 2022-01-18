@@ -1,0 +1,63 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"timestamp": 1642458235937,
+			"productos": [
+				{
+					"id": 1,
+					"timestamps": 1642455363672,
+					"nombre": "Tarjeta de video RTX9500",
+					"descripcion": "para jugar abundante",
+					"codigo": "video8888",
+					"foto": "http://pruebita.com",
+					"precio": "4500",
+					"stock": "15"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"timestamp": 1642458249972,
+			"productos": [
+				{
+					"id": 2,
+					"timestamps": 1642455422272,
+					"nombre": "Computadora gamer I7",
+					"descripcion": "para jugar abundanteee",
+					"codigo": "pc1234",
+					"foto": "http://pruebita.com",
+					"precio": "12500",
+					"stock": "25"
+				},
+				{
+					"id": 1,
+					"timestamps": 1642455363672,
+					"nombre": "Tarjeta de video RTX9500",
+					"descripcion": "para jugar abundante",
+					"codigo": "video8888",
+					"foto": "http://pruebita.com",
+					"precio": "4500",
+					"stock": "15"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"timestamp": 1642462764474,
+			"productos": [
+				{
+					"id": 2,
+					"timestamps": 1642455422272,
+					"nombre": "Computadora gamer I7",
+					"descripcion": "para jugar abundanteee",
+					"codigo": "pc1234",
+					"foto": "http://pruebita.com",
+					"precio": "12500",
+					"stock": "25"
+				}
+			]
+		}
+	],
+	"currentId": 3
+}
